@@ -1,82 +1,18 @@
-🧠 Sobre mí
+# 💫 About Me:
+<br>"Si fueses rico trabajando cuando quieres, todo el mundo lo sería."<br><br>Hola, soy Pablo del rio. Estudio el Grado Internacional en Ciberseguridad y Hacking en MSMK, curso en 42 Madrid, y estoy cofundando CyberHack Solutions, una startup enfocada en seguridad ofensiva/defensiva. Vengo de un Grado Medio en Sistemas Microinformáticos y Redes.<br><br>🇵🇹 Becado con ERASMUS+ para prácticas en Coimbra (Portugal).<br><br>🤝 He trabajado mano a mano con personas con discapacidad para su integración en el mundo de la informática.<br><br>🏅 Premio Espíritu Tres Olivos (empatía, esfuerzo, trabajo en equipo).<br><br>🚀 Recién salido de un programa de incubación (pre-seed → seed) para impulsar nuestra empresa.<br><br>🛡️ En qué ando ahora<br><br>Construyendo y validando CyberHack Solutions (servicios, producto y marca).<br>Estudiando ciberseguridad<br><br>Mejorando en Python, C y SQL aplicados a ciberseguridad.<br><br>Buscando colaborar en proyectos open source y aprender de la comunidad.<br><br>🧰 Tech Stack<br><br>Intereses: pentesting, hardening, ingeniería inversa, threat hunting, automatización de seguridad y CTFs.<br><br>🗂️ Proyectos de 42<br><br>Proyecto 1 — Libft<br><br>Proyecto 2 — Printf<br><br>Proyecto 3 — Get_Next_Line<br><br>🏆 Logros<br><br>🎓 ERASMUS+ (Coimbra, Portugal) — prácticas internacionales.<br><br>🫱🏼‍🫲🏽 Inclusión digital — acompañamiento a personas con discapacidad.<br><br>🥇 Premio Espíritu Tres Olivos — empatía, esfuerzo y compromiso.<br><br>🌱 Incubación startup — de pre-seed a seed con CyberHack Solutions.<br><br>🔒 CompTIA Security +<br><br>🛰️ CyberHack Solutions<br><br>Mi startup de ciberseguridad. Si te interesa colaborar, mentorizarnos o explorar sinergias:<br><br>📧 Email: pablodelrio1210@gmail.com<br><br>🌐 Web: https://cyberhack-solutions.com <br><br>🤝 Colaboraciones: auditorías, automatización de seguridad, formación.<br><br><br><br>
 
-"si fueses rico trabajando cuando quieres, todo el mundo lo sería."
 
-Hola, soy Pablo del rio. Estudio el Grado Internacional en Ciberseguridad y Hacking en MSMK, curso en 42 Madrid, y estoy cofundando CyberHack Solutions, una startup enfocada en seguridad ofensiva/defensiva. Vengo de un Grado Medio en Sistemas Microinformáticos y Redes.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablodelriomartinez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pablodelrio1210@gmail.com) 
 
-🇵🇹 Becado con ERASMUS+ para prácticas en Coimbra (Portugal).
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Durum42&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Durum42&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Durum42&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🤝 He trabajado mano a mano con personas con discapacidad para su integración en el mundo de la informática.
+---
+[![](https://visitcount.itsvg.in/api?id=Durum42&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🏅 Premio Espíritu Tres Olivos (empatía, esfuerzo, trabajo en equipo).
-
-🚀 Recién salido de un programa de incubación (pre-seed → seed) para impulsar nuestra empresa.
-
-🛡️ En qué ando ahora
-
-Construyendo y validando CyberHack Solutions (servicios, producto y marca).
-
-Mejorando en Python, C y SQL aplicados a ciberseguridad.
-
-Buscando colaborar en proyectos open source y aprender de la comunidad.
-
-🧰 Tech Stack
-
-Intereses: pentesting, hardening, ingeniería inversa, threat hunting, automatización de seguridad y CTFs.
-
-🗂️ Proyectos de 42 (los primeros)
-
-Añade aquí tus repositorios con una breve descripción y, si puedes, GIFs o capturas.
-
-Proyecto 1 — Nombre del repoDescripción corta del objetivo y lo que aprendiste.Python/C/SQL · [Repositorio]
-
-Proyecto 2 — Nombre del repoQué problema resuelve, highlights técnicos.Python/C/SQL · [Repositorio]
-
-Proyecto 3 — Nombre del repoRetos y aprendizajes clave.Python/C/SQL · [Repositorio]
-
-🏆 Logros
-
-🎓 ERASMUS+ (Coimbra, Portugal) — prácticas internacionales.
-
-🫱🏼‍🫲🏽 Inclusión digital — acompañamiento a personas con discapacidad.
-
-🥇 Premio Espíritu Tres Olivos — empatía, esfuerzo y compromiso.
-
-🌱 Incubación startup — de pre-seed a seed con CyberHack Solutions.
-
-🧭 Mapa de aprendizaje
-
-mindmap
-  root((Roadmap))
-    Seguridad Ofensiva
-      Pentesting
-      OSINT
-      Ingeniería Inversa
-    Seguridad Defensiva
-      Hardening
-      Detección y Respuesta
-      Logs & SIEM
-    DevSecOps
-      Automatización
-      CI/CD
-      Infra as Code
-    Lenguajes
-      Python
-      C
-      SQL
-
-📊 Stats (opcionales)
-
-Para activarlas, reemplaza TU_USUARIO por tu usuario real.
-
-🛰️ CyberHack Solutions
-
-Mi startup de ciberseguridad. Si te interesa colaborar, mentorizarnos o explorar sinergias:
-
-📧 Email: contacto@cyberhacksolutions.com (placeholder; actualízalo)
-
-🌐 Web: https://cyberhacksolutions.com (placeholder; si aún no existe, quítalo)
-
-🤝 Colaboraciones: auditorías, automatización de seguridad, formación.
-
-📫 Contacto
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
